@@ -1,2 +1,2 @@
-print("Hello the World")
-x=99
+print("Hello my World")
+x=12
